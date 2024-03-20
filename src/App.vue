@@ -17,4 +17,9 @@ export default {
 
 <style>
 
+h1{
+  color: red;
+  font-size: 5rem;
+}
+
 </style>
